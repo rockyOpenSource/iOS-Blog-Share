@@ -192,6 +192,7 @@ __1__.[好编程的技巧](http://www.cocoachina.com/ios/20141229/10783.html)
 __2__.[隐藏TabBar是个累人的活](http://www.jianshu.com/p/607b2a12d24d)
 
 __3__.[iOS隐藏导航条1px的底部横线【原创】](http://blog.it985.com/9808.html)
+__4__.[在stordboad或者xib中在scrollView上拉约束 会报红怎么办](http://www.jianshu.com/p/e4a12061776d)
 
 #### 好使用的iOS开发工具
 
